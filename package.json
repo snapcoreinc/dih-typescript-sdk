@@ -1,0 +1,11 @@
+{
+  "name": "@snapcore/snapcore-dih-types",
+  "version": "1.0.5",
+  "description": "Standard types to leverage SnapCore's DIH",
+  "types": "index.d.ts",
+  "author": "orefalo@snapcore.com",
+  "license": "MIT",
+  "files": [
+    "index.d.ts"
+  ]
+}
